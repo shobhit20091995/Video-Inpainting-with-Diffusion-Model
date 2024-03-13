@@ -21,7 +21,10 @@ Similar to Google's [Imagen](https://arxiv.org/abs/2205.11487),
 this model uses a frozen CLIP ViT-L/14 text encoder to condition the model on text prompts.
 With its 860M UNet and 123M text encoder, the model is relatively lightweight and runs on a GPU with at least 10GB VRAM.
 
-![Stable Diffusion Architecture](https://upload.wikimedia.org/wikipedia/commons/f/f6/Stable_Diffusion_architecture.png)
+<div align="center">
+  <p><strong>Stable Diffusion Architecture</strong></p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Stable_Diffusion_architecture.png" alt="Stable Diffusion Architecture">
+</div>
 
 
 
