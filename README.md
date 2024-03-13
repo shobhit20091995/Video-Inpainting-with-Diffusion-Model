@@ -39,7 +39,7 @@ With its 860M UNet and 123M text encoder, the model is relatively lightweight an
 
 <div>
   <img src="Images/frame_0115.png" alt="Caption for Image 1" width="400" />
-  <img src="Images/mask_0115.png" alt="Caption for Image 2" width="400" />
+  <img src="Images/mask.png" alt="Caption for Image 2" width="400" />
 </div>
 
 
