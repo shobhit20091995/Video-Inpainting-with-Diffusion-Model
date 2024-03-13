@@ -15,13 +15,12 @@ Video inpainting is a process that involves replacing or editing specific areas 
 3. **Output:** The result is a video where the specified regions have been seamlessly inpainted, creating a visually coherent and restored output.
 
 # Stable Diffusion
-[Stable Diffusion](#stable-diffusion-v1) is a latent text-to-image diffusion
-model.
+Stable Diffusion is a latent text-to-image diffusion model.
 Thanks to a generous compute donation from [Stability AI](https://stability.ai/) and support from [LAION](https://laion.ai/), we were able to train a Latent Diffusion Model on 512x512 images from a subset of the [LAION-5B](https://laion.ai/blog/laion-5b/) database. 
 Similar to Google's [Imagen](https://arxiv.org/abs/2205.11487), 
 this model uses a frozen CLIP ViT-L/14 text encoder to condition the model on text prompts.
 With its 860M UNet and 123M text encoder, the model is relatively lightweight and runs on a GPU with at least 10GB VRAM.
-See [this section](#stable-diffusion-v1) below and the [model card](https://huggingface.co/CompVis/stable-diffusion).
+
 
 ## Getting Started
 
