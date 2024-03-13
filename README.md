@@ -32,13 +32,9 @@ With its 860M UNet and 123M text encoder, the model is relatively lightweight an
 
 ### Prerequisites
 
-- It is requested to run the file in goggle collab aith gpu selected at runtime and input video uploaded
+- It is requested to run the file in Google Collab with GPU selected at runtime and input video uploaded
 
-### Installation
+### Results
+## Adding Mask 
 
-1. [Provide installation instructions, such as cloning the repository and installing dependencies.]
 
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-pip install -r requirements.txt
