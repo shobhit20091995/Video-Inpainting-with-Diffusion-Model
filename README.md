@@ -36,6 +36,13 @@ With its 860M UNet and 123M text encoder, the model is relatively lightweight an
 
 ## Results
 ### Adding Mask 
-![Input_Image](Images/frame_0115.png) ![Mask Image](Images/mask_0115.png)
+
+<div>
+  <img src="Images/frame_0115.png" alt="Caption for Image 1" width="400" />
+  <img src="Images/mask_0115.png" alt="Caption for Image 2" width="400" />
+</div>
+
+
+
 
 
