@@ -37,10 +37,33 @@ With its 860M UNet and 123M text encoder, the model is relatively lightweight an
 ## Results
 ### Adding Mask 
 
+
+
+<figure>
+  <img src="Images/frame_0115.png" alt="Image 1" width="400" />
+  <figcaption>Input Image</figcaption>
+</figure>
+
+<figure>
+  <img src="Images/mask.png" alt="Image 2" width="400" />
+  <figcaption>Mask Image</figcaption>
+</figure>
+
+
+
+### Inpainting
+
 <div>
-  <img src="Images/frame_0115.png" alt="Caption for Image 1" width="400" />
-  <img src="Images/mask.png" alt="Caption for Image 2" width="400" />
+  <img src="Images/inout.png" alt="Input Image " width="400"/>
+  <p><strong>Input Image</strong></p>
+  <img src="Images/output.png" alt="Impainted Image" width="400" />
+  <p><strong>Impainted Image</strong></p>
 </div>
+
+### Video
+
+Kindly see the Images folder for input and output video 
+
 
 
 
