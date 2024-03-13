@@ -36,5 +36,6 @@ With its 860M UNet and 123M text encoder, the model is relatively lightweight an
 
 ## Results
 ### Adding Mask 
+![Mask Image](Images/frame_0115.png)
 
 
