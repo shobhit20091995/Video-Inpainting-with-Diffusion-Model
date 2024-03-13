@@ -32,7 +32,7 @@ With its 860M UNet and 123M text encoder, the model is relatively lightweight an
 
 ### Prerequisites
 
-- [List any dependencies or prerequisites needed for the project.]
+- It is requested to run the file in goggle collab aith gpu selected at runtime and input video uploaded
 
 ### Installation
 
