@@ -34,7 +34,7 @@ With its 860M UNet and 123M text encoder, the model is relatively lightweight an
 
 - It is requested to run the file in Google Collab with GPU selected at runtime and input video uploaded
 
-### Results
-## Adding Mask 
+## Results
+### Adding Mask 
 
 
